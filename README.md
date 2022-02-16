@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Rutu Desai this side!!👋
 
 <!--
 **rutudesai/rutudesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently pursuing Masters in Data Science from Rutgers University - New Brunswick, The State University of New Jersey.
+-  Data Science graduate student with an undergraduate degree in Computer Science and Engineering. Strong analytical and
+visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
+Passionate about developing meaningful insights from data analysis.
