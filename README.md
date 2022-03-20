@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently pursuing Masters in Data Science from Rutgers University - New Brunswick, The State University of New Jersey.
--  Data Science graduate student with an undergraduate degree in Computer Science and Engineering. Strong analytical and
+- ⚡ Data Science graduate student with an undergraduate degree in Computer Science and Engineering. Strong analytical and
 visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 Passionate about developing meaningful insights from data analysis.
