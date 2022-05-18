@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 - 🎧 Currently Listening to : The 2-Hour Job Search by Steve Dalton.
 
 ## Certifications :
-- Google Data Analytics Professional : [![Google Data Analytics Professional](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=blue)][https://www.credly.com/badges/fe9ce3f9-73ca-47dd-9231-b5fdcf1484da/public_url] 
-- Tableau Desktop Specialist : [![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blue)][https://www.credly.com/badges/79ec8129-d5e9-4b2b-9186-ae457d3648c6/public_url]
+- Google Data Analytics Professional : [![Google](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=blue)][1.1] 
+- Tableau Desktop Specialist : [![Tableau](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blue)][2.1]
+
+[1.1]: https://www.credly.com/badges/fe9ce3f9-73ca-47dd-9231-b5fdcf1484da/public_url
+[2.1]: https://www.credly.com/badges/79ec8129-d5e9-4b2b-9186-ae457d3648c6/public_url
 
 ## Tools and Technology :
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
