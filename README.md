@@ -22,10 +22,10 @@ Passionate about developing meaningful insights from data analysis.
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/AdobeXD-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 
 ## Github Stats
