@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 ## Find Me here :
-[1]
-[2]
-[3]
-[4]
-[5]
-[6]
+[!LinkedIn][1]
+[!Portfolio Website][2]
+[!Tableau Public][3]
+[!HackerRank][4]
+[!leetCode][5]
+[!Kaggle][6]
 <!--[![Twitter][7.2]][7]-->
 
 <!-- Icons -->
