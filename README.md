@@ -1,4 +1,4 @@
-### Hi there, Rutu Desai this side!!
+# Hi there, Rutu Desai this side!!👋
 <!--
 **rutudesai/rutudesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+## About Me :
 - 🌱 I’m currently pursuing Masters in Data Science from Rutgers University - New Brunswick, The State University of New Jersey.
-- ⚡ Strong analytical and visualization skills with proficiency in softwares like Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL..
+- ⚡ Strong analytical and visualization skills with proficiency in softwares like Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 - ❤️ Passionate about developing meaningful insights from data analysis.
 - 📊 Love to Make Visualizations on Tableau.
 - 📖 Currently Reading : How to Lie with Statistics by Darrell Huff.
 - 🎧 Currently Listening to : The 2-Hour Job Search by Steve Dalton.
 
-## Certifications
+## Certifications :
 
 
-## Tools and Technology
+## Tools and Technology :
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streaml&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Regression Analysis-informational?style=flat&logo=regression&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Natural Language Processing-informational?style=flat&logo=nlp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Microsoft Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=blueviolet)
@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
+## Find Me here :
 
-## Github Stats
+
+## Github Stats :
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
 ![Rutu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
 
