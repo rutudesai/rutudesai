@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## Find Me here :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue)][1]
-[[Portfolio Website]][2]
+[[Portfolio Website](https://img.shields.io/badge/Website-informational?style=flat&logo=GoogleChrome&logoColor=white&color=blue)][2]
 [![Tableau Public](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)][3]
 [![HackerRank](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=green)][4]
 [![leetCode](https://img.shields.io/badge/leetCode-informational?style=flat&logo=leetcode&logoColor=white&color=orange)][5]
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ![Rutu's GitHub Coding Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
 
 
-### Special Thanks:
+### Special Thanks :
 - Anurag Hazra for the Github readme Stats - https://github.com/anuraghazra/github-readme-stats
 - Shields.io for Logo's of Tools and Technologies - https://shields.io/
 - Martin Heinz for Beautiful Blog on Creating better Readme Files - https://martinheinz.dev/blog/29
