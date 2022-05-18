@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 <!--[7]:-->
 
 ## Github Stats :
-![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
-![Rutu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
+![Rutu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
+![Rutu's GitHub Coding Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
 
 
 ### Special Thanks:
