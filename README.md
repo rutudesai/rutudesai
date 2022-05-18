@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 Passionate about developing meaningful insights from data analysis.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutudesai&theme=radical" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutudesai&theme=radical" /> -->
