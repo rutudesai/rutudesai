@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 Passionate about developing meaningful insights from data analysis.
 
+## Tools and Technology
+![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+
 ## Github Stats
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
 
