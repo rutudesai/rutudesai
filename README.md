@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 ## Find Me here :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blueviolet)][1]
-[![Portfolio Website]🌐][2]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue)][1]
+[[Portfolio Website]][2]
 [![Tableau Public](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)][3]
-[![HackerRank](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=blueviolet)][4]
-[![leetCode](https://img.shields.io/badge/leetCode-informational?style=flat&logo=leetcode&logoColor=white&color=blueviolet)][5]
-[![Kaggle](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=blueviolet)][6]
+[![HackerRank](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=green)][4]
+[![leetCode](https://img.shields.io/badge/leetCode-informational?style=flat&logo=leetcode&logoColor=white&color=orange)][5]
+[![Kaggle](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=9cf)][6]
 <!--[![Twitter][7.2]][7]-->
 
 <!-- Icons -->
