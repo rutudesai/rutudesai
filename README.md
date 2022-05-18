@@ -20,3 +20,7 @@ Passionate about developing meaningful insights from data analysis.
 
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
 ![Rutu's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical)
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
