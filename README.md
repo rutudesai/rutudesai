@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 Passionate about developing meaningful insights from data analysis.
 
+## Github Stats
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
+
+## Top Languages Used
 ![Rutu's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical)
-
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=rutudesai)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
