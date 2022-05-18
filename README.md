@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
-[![LinkedIn](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/rutudesai2903/]
 
 ## Find Me here :
 [![LinkedIn][1.2]][1]
