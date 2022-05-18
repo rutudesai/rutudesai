@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-<-- [1.2]: (https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)-->
-<-- [2.2]: 🌐-->
-<-- [3.2]: (https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)-->
-<-- [4.2]: (https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)-->
-<-- [5.2]: (https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)-->
-<-- [6.2]: (https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)-->
+<!-- [1.2]: (https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)-->
+<!-- [2.2]: 🌐-->
+<!-- [3.2]: (https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)-->
+<!-- [4.2]: (https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)-->
+<!-- [5.2]: (https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)-->
+<!-- [6.2]: (https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)-->
 <!-- [7.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=twitter&logoColor=white)-->
 
 <!-- Links to your social media accounts -->
