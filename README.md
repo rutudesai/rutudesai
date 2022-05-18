@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 ## Find Me here :
-[!LinkedIn][1]
-[!Portfolio Website][2]
-[!Tableau Public][3]
-[!HackerRank][4]
-[!leetCode][5]
-[!Kaggle][6]
+[LinkedIn](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)[1]
+[Portfolio Website]🌐[2]
+[Tableau Public](https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)[3]
+[HackerRank](https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)[4]
+[leetCode](https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)[5]
+[Kaggle](https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)[6]
 <!--[![Twitter][7.2]][7]-->
 
 <!-- Icons -->
