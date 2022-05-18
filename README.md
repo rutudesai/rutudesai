@@ -1,4 +1,5 @@
-### Hi there, Rutu Desai this side!!👋
+### Hi there, Rutu Desai this side!!# Hello, folks! <img src="https://raw.githubusercontent.com/rutudesai/rutudesai/main/wave.gif" width="30px">
+
 
 <!--
 **rutudesai/rutudesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
