@@ -37,13 +37,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
+[![LinkedIn](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)]
+
 ## Find Me here :
-![LinkedIn][1.2][1]
-![Website][2.2][2]
-![Tableau][3.2][3]
-![HackerRank][4.2][4]
-![leetCode][5.2][5]
-![Kaggle][6.2][6]
+[![LinkedIn][1.2]][1]
+[![Website][2.2]][2]
+[![Tableau][3.2]][3]
+[![HackerRank][4.2]][4]
+[![leetCode][5.2]][5]
+[![Kaggle][6.2]][6]
 <!--[![Twitter][7.2]][7]-->
 
 <!-- Icons -->
