@@ -22,7 +22,7 @@ Passionate about developing meaningful insights from data analysis.
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
 
 ## Top Languages Used
-![Rutu's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical)
+![Rutu's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
 
 
 ### Special Thanks to Anurag Hazra for the Github readme Stats
