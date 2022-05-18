@@ -1,5 +1,4 @@
-### Hi there, Rutu Desai this side!!# Hello, folks! <img src="https://raw.githubusercontent.com/rutudesai/rutudesai/main/wave.gif" width="30px">
-
+### Hi there, Rutu Desai this side!!<img src="https://raw.githubusercontent.com/rutudesai/rutudesai/main/wave.gif" width="30px">
 
 <!--
 **rutudesai/rutudesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Data Science graduate student with an undergraduate degree in Computer Science and Engineering. Strong analytical and
 visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 Passionate about developing meaningful insights from data analysis.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rutudesai&theme=radical" />
