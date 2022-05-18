@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
-[![LinkedIn](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/rutudesai2903/]
-
 ## Find Me here :
 [![LinkedIn][1.2]][1]
 [![Website][2.2]][2]
@@ -50,12 +48,12 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: (https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)
-[2.2]: 🌐
-[3.2]: (https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)
-[4.2]: (https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)
-[5.2]: (https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)
-[6.2]: (https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)
+<-- [1.2]: (https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)-->
+<-- [2.2]: 🌐-->
+<-- [3.2]: (https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)-->
+<-- [4.2]: (https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)-->
+<-- [5.2]: (https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)-->
+<-- [6.2]: (https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)-->
 <!-- [7.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=twitter&logoColor=white)-->
 
 <!-- Links to your social media accounts -->
