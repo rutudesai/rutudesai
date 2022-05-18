@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 🎧 Currently Listening to : The 2-Hour Job Search by Steve Dalton.
 
 ## Certifications :
-
+- [Google Data Analytics Professional][https://www.credly.com/badges/fe9ce3f9-73ca-47dd-9231-b5fdcf1484da/public_url] 
+- [Tableau Desktop Specialist][https://www.credly.com/badges/79ec8129-d5e9-4b2b-9186-ae457d3648c6/public_url]
 
 ## Tools and Technology :
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
@@ -46,16 +47,6 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=9cf)][6]
 <!--[![Twitter][7.2]][7]-->
 
-<!-- Icons -->
-
-<!-- [1.2]: (https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)-->
-<!-- [2.2]: 🌐-->
-<!-- [3.2]: (https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)-->
-<!-- [4.2]: (https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)-->
-<!-- [5.2]: (https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)-->
-<!-- [6.2]: (https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)-->
-<!-- [7.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=twitter&logoColor=white)-->
-
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/rutudesai2903/
@@ -66,15 +57,13 @@ Here are some ideas to get you started:
 [6]: https://www.kaggle.com/rutudesai29
 <!--[7]:-->
 
-
-
 ## Github Stats :
 ![Rutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutudesai&show_icons=true&theme=radical)
 ![Rutu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudesai&theme=radical&layout=compact)
 
 
 ### Special Thanks:
-1. Anurag Hazra for the Github readme Stats - https://github.com/anuraghazra/github-readme-stats
-2. Shields.io for Logo's of Tools and Technologies - https://shields.io/
-3. Martin Heinz for Beautiful Blog on Creating better Readme Files - https://martinheinz.dev/blog/29
-4. All Emojis - https://emojipedia.org/
+- Anurag Hazra for the Github readme Stats - https://github.com/anuraghazra/github-readme-stats
+- Shields.io for Logo's of Tools and Technologies - https://shields.io/
+- Martin Heinz for Beautiful Blog on Creating better Readme Files - https://martinheinz.dev/blog/29
+- All Emojis - https://emojipedia.org/
