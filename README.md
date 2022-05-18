@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streaml&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/RegressionAnalysis-informational?style=flat&logo=regression&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/NaturalLanguageProcessing-informational?style=flat&logo=nlp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/MicrosoftExcel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=blueviolet)
