@@ -19,7 +19,13 @@ visual skills with proficiency in softwares -Tableau, Microsoft Excel. Advanced 
 Passionate about developing meaningful insights from data analysis.
 
 ## Tools and Technology
-![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/R-R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tableau-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQL-SQL-informational?style=flat&logo=sql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-HTML-informational?style=flat&logo=html&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/CSS-CSS-informational?style=flat&logo=css&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/AdobeXD-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 
 ## Github Stats
