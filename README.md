@@ -38,6 +38,34 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=blueviolet)
 
 ## Find Me here :
+[![LinkedIn][1.2]][1]
+[![Website][2.2]][2]
+[![Tableau][3.2]][3]
+[![HackerRank][4.2]][4]
+[![leetCode][5.2]][5]
+[![Kaggle][6.2]][6]
+<!--[![Twitter][7.2]][7]-->
+
+<!-- Icons -->
+
+[1.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=linkedin&logoColor=white)
+[2.2]: 🌐
+[3.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=tableau&logoColor=white)
+[4.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=hackerrank&logoColor=white)
+[5.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=leetcode&logoColor=white)
+[6.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=kaggle&logoColor=white)
+<!-- [7.2]: ![](https://img.shields.io/badge/informational?style=flat&logo=twitter&logoColor=white)-->
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/rutudesai2903/
+[2]: https://rutudesai.github.io/
+[3]: https://public.tableau.com/app/profile/rutu8663#!/
+[4]: https://www.hackerrank.com/rutudesai2903?hr_r=1
+[5]: https://leetcode.com/rutudesai2903/
+[6]: https://www.kaggle.com/rutudesai29
+<!--[7]:-->
+
 
 
 ## Github Stats :
