@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 ## About Me :
 - 🌱 I’m currently pursuing Masters in Data Science from Rutgers University - New Brunswick, The State University of New Jersey.
-- ⚡ Strong analytical and visualization skills with proficiency in softwares like Tableau, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
+- ⚡ Strong analytical and visualization skills with proficiency in softwares like Tableau, Microsoft Power BI, Microsoft Excel. Advanced coding & programming skills in Python, SQL.
 - ❤️ Passionate about developing meaningful insights from data analysis.
-- 📊 Love to Make Visualizations on Tableau.
+- 📊 Love to Make Visualizations on Tableau and Microsoft Power BI.
 - 📖 Currently Reading : How to Lie with Statistics by Darrell Huff.
-- 🎧 Currently Listening to : The 2-Hour Job Search by Steve Dalton.
+- 🎧 Currently Listening : The 2-Hour Job Search by Steve Dalton.
 
 ## Certifications :
 - Google Data Analytics Professional : [![Google](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=blue)][1.1] 
