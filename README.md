@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/MicrosoftPowerBI-informational?style=flat&logo=MicrosoftPowerBI&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/RegressionAnalysis-informational?style=flat&logo=regression&logoColor=white&color=blueviolet)
